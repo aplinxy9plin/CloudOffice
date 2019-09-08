@@ -1,0 +1,17 @@
+{
+  "name": "CloudOffice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AplinXy9plin <evilberry@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "file-metadata": "^1.0.0",
+    "fs": "^0.0.1-security",
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.1",
+    "mongodb": "^3.3.2",
+    "multer": "^1.4.2"
+  }
+}
